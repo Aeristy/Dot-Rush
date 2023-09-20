@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dropdownBottom",
+    "texture": "a0b79d10-8bde-4a52-81c7-b70a3a68e4e2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      190,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      190,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

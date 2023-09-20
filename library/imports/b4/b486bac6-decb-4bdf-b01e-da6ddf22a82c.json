@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ReplayButton",
+    "texture": "f0bae464-f417-461b-a396-b7f9443dfcbc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2000,
+      2000
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2000,
+      2000
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

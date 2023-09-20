@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dropdownMid",
+    "texture": "e59de830-00d0-4ae4-a950-a7c3f1d4aa56",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      190,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      190,
+      24
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "blueSheet",
+    "texture": "368af426-0216-42a2-941b-7a3f16555739",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      444,
+      256
+    ],
+    "offset": [
+      -34,
+      0
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

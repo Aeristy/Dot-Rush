@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "RingEffect",
+    "texture": "309f542b-78fa-43ed-9cd2-5e11df70c96d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      112,
+      110
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      112,
+      112
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

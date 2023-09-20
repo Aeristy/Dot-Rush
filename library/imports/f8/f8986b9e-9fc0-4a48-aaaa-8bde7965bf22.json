@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BlueBall",
+    "texture": "092aeb6b-cf3d-453f-af89-8a455d4dcd8a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2000,
+      2000
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2000,
+      2000
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

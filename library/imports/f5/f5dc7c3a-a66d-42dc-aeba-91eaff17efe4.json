@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yellowSheet",
+    "texture": "5a280655-f902-47f4-a617-863d1dc1a749",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      444,
+      255
+    ],
+    "offset": [
+      -34,
+      0.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

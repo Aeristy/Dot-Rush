@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "RedPlayerBall",
+    "texture": "b2d79e06-42b4-4bdf-bbc2-c47ff46e370c",
+    "atlas": "",
+    "rect": [
+      188,
+      188,
+      624,
+      624
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1000,
+      1000
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

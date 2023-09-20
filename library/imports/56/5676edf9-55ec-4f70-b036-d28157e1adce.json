@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "White Circle",
+    "texture": "5ad2b642-6991-4b2b-b11e-42afbe7606dc",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      1676,
+      1677
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      1677,
+      1678
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "RedBall",
+    "texture": "98c254f3-37f1-4721-8435-630b9371dafb",
+    "atlas": "",
+    "rect": [
+      183,
+      185,
+      636,
+      627
+    ],
+    "offset": [
+      1,
+      1.5
+    ],
+    "originalSize": [
+      1000,
+      1000
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "greenSheet",
+    "texture": "c967e72a-d35f-4a31-a6d5-062666773ac1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      444,
+      255
+    ],
+    "offset": [
+      -34,
+      0.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "grey_sliderVertical",
+    "texture": "21f4cf57-2fec-4ff3-822d-9ecb1dbfdbb3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      4,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      4,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

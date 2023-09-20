@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LevelOff",
+    "texture": "dafe5238-c382-4e68-98ad-b8ee0a90bfbf",
+    "atlas": "",
+    "rect": [
+      93,
+      93,
+      314,
+      314
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      500,
+      500
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

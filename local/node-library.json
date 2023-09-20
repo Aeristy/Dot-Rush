@@ -1,0 +1,23 @@
+{
+  "user": {
+    "name": "User",
+    "prefab": [
+      {
+        "name": "BluePlayBall",
+        "uuid": "0798f520-585c-4f7a-8091-7188cb2e56c3"
+      },
+      {
+        "name": "RedPlayerBall",
+        "uuid": "14deb17a-c77f-4df9-b968-3c3af37b806e"
+      },
+      {
+        "name": "RedParticle",
+        "uuid": "dce7c9ff-a3e8-4f5f-bb76-ca1af6eb2197"
+      },
+      {
+        "name": "BlueParticle",
+        "uuid": "10bc7434-3145-4294-a54f-2df9a194e309"
+      }
+    ]
+  }
+}
